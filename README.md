@@ -1,4 +1,4 @@
-# Black-Scholes Pricing Model
+# 1) Black-Scholes Pricing Model
 
 Python implementation of the Black-Scholes model for European options.
 
@@ -9,6 +9,14 @@ Python implementation of the Black-Scholes model for European options.
 - Greeks computation
 - Python & financial modelling
 
-# MC model
+# 2) Monte Carlo model
 calcul
 
+# 3) Stylized Facts + Regression
+## Programme qui vérifie les stylized facts d'une action:
+- lssl
+- sl
+
+## Programme permettant de faire une régression:
+- Through CAPM
+- Through the FAMA-FRENCH model
