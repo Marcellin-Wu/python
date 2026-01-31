@@ -15,7 +15,7 @@ Monte Carlo simulation approach for pricing European call option.
 👉 Main file: [Monte Carlo.ipynb](https://github.com/Marcellin-Wu/python/blob/main/Monte%20Carlo%20Options%20Pricing.ipynb)
 
 ## What this project shows
-- Asset price simulation (Geometric Brownian Motion)
+- Asset price simulation 
 - Call option pricing via Monte Carlo methods
 - Convergence and numerical accuracy illustrated through plots
 
